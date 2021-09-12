@@ -7,7 +7,7 @@
   </a>
 </p>
 
-  </a><!--stats-->
+<!--stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yu1hpa&show_icons=true&theme=radical" />
 </a>
@@ -29,3 +29,9 @@ Week: 05 September, 2021 - 11 September, 2021
 |                                                                       |                                                         |
 |-----------------------------------------------------------------------|---------------------------------------------------------|
 |[ctftime-cli](https://github.com/yu1hpa/ctftime-cli) - CTFtime CLI Tool|[ascii](https://github.com/yu1hpa/ascii) - ASCII CLI Tool|
+
+## Misc
+|                                                                         |                                                                                      |
+|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|[CTF Writeups](https://github.com/yu1hpa/ctf-writeups) - CTF Writeups    |[Pwn Challenges](https://github.com/yu1hpa/pwn-challenges) - Typical challenges of Pwn|
+|[Awesome gh](https://github.com/yu1hpa/awesome-gh) - Awesome gh-extension|[gh-idra](https://github.com/yu1hpa/gh-idra) - gh-dira (gh-extension)                 |
