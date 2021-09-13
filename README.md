@@ -18,9 +18,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2021 - 11 September, 2021
+Week: 06 September, 2021 - 12 September, 2021
 
-
+Markdown   32 mins         █████████░░░░░░░░░░░░░░░░   35.62 % 
+Go         32 mins         ████████▓░░░░░░░░░░░░░░░░   34.92 % 
+C          23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.58 % 
+Makefile   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 
