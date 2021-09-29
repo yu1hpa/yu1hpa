@@ -6,16 +6,7 @@
     <img height="20" src="https://img.shields.io/github/followers/yu1hpa?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
-<!--stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yu1hpa&show_icons=true&theme=radical" />
-</a>
-<!--top languages-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu1hpa&hide=tex" />
-</a>
-
+  
 <!--START_SECTION:waka-->
 ```text
 Week: 22 September, 2021 - 28 September, 2021
