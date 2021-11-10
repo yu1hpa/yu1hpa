@@ -9,7 +9,7 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
 TeX        18 hrs 37 mins  █████████████████████▒░░░   85.67 % 
 Python     1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
