@@ -9,13 +9,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
+Week: 14 November, 2021 - 20 November, 2021
 
-C            6 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   40.22 % 
-TeX          4 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-Python       1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Bash         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-JavaScript   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+C            6 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   38.37 % 
+TeX          4 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.32 % 
+Python       1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Bash         1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+JavaScript   1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 ```
 <!--END_SECTION:waka-->
 
