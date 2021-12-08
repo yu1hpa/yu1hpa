@@ -9,13 +9,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2021 - 06 December, 2021
+Week: 01 December, 2021 - 07 December, 2021
 
-Rust     5 hrs 21 mins   ███████████░░░░░░░░░░░░░░   43.46 % 
-TeX      2 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Python   2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-C        1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Docker   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TeX          6 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Rust         4 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.35 % 
+Python       3 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.82 % 
+C            3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+JavaScript   1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 ```
 <!--END_SECTION:waka-->
 
