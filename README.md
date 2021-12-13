@@ -9,7 +9,7 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2021 - 11 December, 2021
+Week: 06 December, 2021 - 12 December, 2021
 
 TeX          14 hrs 38 mins  ██████████████░░░░░░░░░░░   56.14 % 
 C            4 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 % 
