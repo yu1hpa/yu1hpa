@@ -9,13 +9,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2021 - 14 December, 2021
+Week: 09 December, 2021 - 15 December, 2021
 
-TeX          11 hrs 41 mins  ████████████████▒░░░░░░░░   65.27 % 
-Python       3 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.10 % 
-C            1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Rust         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-JavaScript   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TeX          8 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   45.65 % 
+C            4 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.38 % 
+Python       2 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+JavaScript   1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Rust         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 <!--END_SECTION:waka-->
 
