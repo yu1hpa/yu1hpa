@@ -9,13 +9,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 23 December, 2021
+Week: 18 December, 2021 - 24 December, 2021
 
-TeX          23 hrs 28 mins  ██████████░░░░░░░░░░░░░░░   40.45 % 
-C            19 hrs 7 mins   ████████▒░░░░░░░░░░░░░░░░   32.96 % 
-Python       8 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Makefile     1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-TypeScript   1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+TeX          22 hrs 28 mins  ███████████░░░░░░░░░░░░░░   43.85 % 
+C            13 hrs 32 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.42 % 
+Python       8 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Makefile     1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+TypeScript   1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 <!--END_SECTION:waka-->
 
