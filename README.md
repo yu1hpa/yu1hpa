@@ -9,12 +9,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
-Python   1 hr 11 mins    █████████████▓░░░░░░░░░░░   54.92 % 
-Rust     42 mins         ████████▒░░░░░░░░░░░░░░░░   32.92 % 
-Bash     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JavaScript   3 hrs 18 mins   ████████████▒░░░░░░░░░░░░   49.53 % 
+TypeScript   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Rust         42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+HTML         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Python       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 <!--END_SECTION:waka-->
 
