@@ -9,13 +9,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
-TeX          5 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.76 % 
-JavaScript   3 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.83 % 
-TypeScript   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-HTML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Markdown     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+TeX          6 hrs 5 mins    ████████████▒░░░░░░░░░░░░   48.95 % 
+JavaScript   3 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 % 
+TypeScript   55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+C            32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+HTML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 <!--END_SECTION:waka-->
 
