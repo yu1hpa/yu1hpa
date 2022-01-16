@@ -9,13 +9,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
+Week: 09 January, 2022 - 15 January, 2022
 
-TypeScript   12 hrs 14 mins  ███████████▓░░░░░░░░░░░░░   46.10 % 
-Python       6 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-TeX          2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-JavaScript   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Other        1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+TypeScript   12 hrs 56 mins  ███████████▒░░░░░░░░░░░░░   45.84 % 
+Python       6 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 % 
+TeX          2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Go           1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JavaScript   1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 <!--END_SECTION:waka-->
 
