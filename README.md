@@ -1,12 +1,11 @@
 # Hi 👋
-<p align="left"> 
-  <a href="http://twitter.com/yu1hpa">
-    <img height="20" src="https://img.shields.io/twitter/follow/yu1hpa?label=Twitter&logo=twitter&style=flat" />
-  <a href="https://github.com/yu1hpa">
-    <img height="20" src="https://img.shields.io/github/followers/yu1hpa?label=follow&logo=github&style=flat" />
-  </a>
-</p>
-  
+
+I'm yu1hpa.
+
+I play CTFs with Thehackerscrew
+
+### Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
 Week: 10 January, 2022 - 16 January, 2022
