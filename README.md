@@ -8,13 +8,13 @@ I play CTFs with Thehackerscrew
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
+Week: 12 January, 2022 - 18 January, 2022
 
-TypeScript   13 hrs 41 mins  █████████████░░░░░░░░░░░░   51.38 % 
-Python       3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Go           2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-TeX          1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-JavaScript   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+TypeScript   13 hrs 45 mins  ██████████████▒░░░░░░░░░░   57.88 % 
+Go           2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Python       1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JavaScript   1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+YAML         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 <!--END_SECTION:waka-->
 
