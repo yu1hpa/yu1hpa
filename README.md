@@ -8,7 +8,7 @@ I play CTFs with Thehackerscrew
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 TeX          5 hrs 43 mins   ████████████████▒░░░░░░░░   65.47 % 
 TypeScript   1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
