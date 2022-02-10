@@ -8,7 +8,7 @@ I play CTFs with Thehackerscrew
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
 Rust         2 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.90 % 
 Python       2 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
