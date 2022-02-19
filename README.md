@@ -8,15 +8,15 @@ I play CTFs with Thehackerscrew
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 17 hrs 49 mins
+Total: 13 hrs 51 mins
 
-Rust         13 hrs 5 mins   █████████████████░░░░░░░░   67.82 % 
-TypeScript   1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Other        1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-YAML         1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML         1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Rust       10 hrs 57 mins  ██████████████████░░░░░░░   71.37 % 
+Other      1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+YAML       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML       56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Markdown   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 <!--END_SECTION:waka-->
 
