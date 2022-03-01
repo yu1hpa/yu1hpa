@@ -9,10 +9,10 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
-Rust         37 mins         ████████████████████████▒   97.55 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+TypeScript   1 hr 21 mins    █████████████████░░░░░░░░   68.27 %
+Rust         37 mins         ████████░░░░░░░░░░░░░░░░░   31.73 %
 ```
 
 <!--END_SECTION:waka-->
