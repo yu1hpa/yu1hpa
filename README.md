@@ -9,13 +9,13 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2022 - To: 11 March 2022
+From: 05 March 2022 - To: 12 March 2022
 
-Go         40 mins         ████████████████▒░░░░░░░░   65.82 %
-Rust       12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-C          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Python     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python     1 hr 7 mins     █████████████▒░░░░░░░░░░░   52.91 %
+Go         40 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
+Rust       12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+C          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
