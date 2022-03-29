@@ -9,9 +9,9 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2022 - To: 27 March 2022
+From: 21 March 2022 - To: 28 March 2022
 
-Other        1 hr 4 mins     ███████████░░░░░░░░░░░░░░   44.40 %
+Other        1 hr 22 mins    ████████▒░░░░░░░░░░░░░░░░   33.53 %
 ```
 
 <!--END_SECTION:waka-->
