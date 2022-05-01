@@ -9,14 +9,14 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2022 - To: 29 April 2022
+From: 23 April 2022 - To: 30 April 2022
 
-C            3 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.88 %
-Python       3 hrs 9 mins    █████████▓░░░░░░░░░░░░░░░   38.88 %
-Rust         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-YAML         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+C            3 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   35.71 %
+YAML         3 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   32.23 %
+Python       2 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
+Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Git Config   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
