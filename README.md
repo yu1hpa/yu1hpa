@@ -9,7 +9,7 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2022 - To: 18 May 2022
+From: 12 May 2022 - To: 19 May 2022
 
 Python           6 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   45.21 %
 Ruby             3 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
