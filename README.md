@@ -9,14 +9,14 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-C                4 hrs 3 mins    █████████████▓░░░░░░░░░░░   54.85 %
-Ruby             1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-Bash             1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-Java             24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-HTML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-GitIgnore file   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+C                6 hrs 19 mins   ████████████████▒░░░░░░░░   65.05 %
+Ruby             1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+Bash             54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Java             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Makefile         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+GitIgnore file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
