@@ -9,10 +9,12 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 July 2022 - To: 14 July 2022
+From: 08 July 2022 - To: 15 July 2022
 
-Text     43 mins         █████████▒░░░░░░░░░░░░░░░   37.02 %
-Other    35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.46 %
+C          1 hr 32 mins    █████████▒░░░░░░░░░░░░░░░   37.09 %
+Text       43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+Makefile   38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Other      35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
 ```
 
 <!--END_SECTION:waka-->
