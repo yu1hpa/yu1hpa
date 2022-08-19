@@ -9,12 +9,10 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Go       4 hrs 49 mins   ██████████████████░░░░░░░   71.42 %
-C++      1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-Python   41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+C++     2 hrs 14 mins   ████████████████████████▓   99.24 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
