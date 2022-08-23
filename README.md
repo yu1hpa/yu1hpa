@@ -9,7 +9,7 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 August 2022 - To: 21 August 2022
+From: 15 August 2022 - To: 22 August 2022
 
 C++          4 hrs 33 mins   ████████████████▒░░░░░░░░   65.17 %
 JavaScript   1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
