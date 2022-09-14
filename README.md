@@ -9,14 +9,14 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2022 - To: 12 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
-C++          20 hrs 39 mins  ███████████████████████░░   92.14 %
-Vue.js       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Text         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Dart         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-TypeScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+C++          18 hrs 32 mins  ████████████████████▒░░░░   81.03 %
+Vue.js       3 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Dart         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
