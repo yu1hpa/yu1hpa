@@ -9,14 +9,14 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-Python     3 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   39.73 %
-C          3 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 %
-TeX        40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Java       39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Markdown   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Bash       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Python     4 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   37.08 %
+C          3 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.42 %
+Java       1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Markdown   51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+TeX        40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Bash       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
