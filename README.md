@@ -9,12 +9,12 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-TypeScript    11 hrs 39 mins  ██████████████░░░░░░░░░░░   56.52 %
-C             2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-Markdown      1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-Other         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+TypeScript    10 hrs 4 mins   █████████████▓░░░░░░░░░░░   55.01 %
+C             2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+Markdown      1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Other         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
