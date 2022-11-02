@@ -9,11 +9,11 @@ I play CTFs with Thehackerscrew
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 October 2022 - To: 31 October 2022
+From: 25 October 2022 - To: 01 November 2022
 
-Rust         3 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   31.33 %
-Go           2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-Other        1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Rust         3 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   33.41 %
+Go           1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Other        1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
 ```
 
 <!--END_SECTION:waka-->
