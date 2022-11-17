@@ -13,14 +13,14 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 November 2022 - To: 15 November 2022
+From: 09 November 2022 - To: 16 November 2022
 
-Go                         3 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.41 %
-TypeScript                 2 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-Python                     2 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
-JavaScript                 55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-JSON                       55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Other                      33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Python                     4 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.02 %
+Go                         3 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.07 %
+C                          58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+JavaScript                 54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Rust                       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Other                      26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
