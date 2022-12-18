@@ -13,14 +13,14 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
-TeX          4 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-Ruby         4 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
-C            2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Markdown     2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Python       1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Java         1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Ruby         7 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.32 %
+TeX          3 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+C            2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Markdown     1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Java         1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+ERB          1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 ```
 
 <!--END_SECTION:waka-->
