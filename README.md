@@ -13,14 +13,14 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-ERB                        19 mins         █████████▒░░░░░░░░░░░░░░░   37.56 %
-Ruby                       14 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 %
-Nginx configuration file   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-Python                     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Docker                     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+ERB                        19 mins         █████████▒░░░░░░░░░░░░░░░   36.78 %
+Ruby                       16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+Nginx configuration file   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
+Python                     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Docker                     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
