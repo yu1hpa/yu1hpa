@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
 ERB                        19 mins         █████████▒░░░░░░░░░░░░░░░   36.78 %
 Ruby                       16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.13 %
