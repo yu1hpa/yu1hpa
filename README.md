@@ -13,9 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
-Ruby   1 min           █████████████████████████   100.00 %
+C      20 mins         ███████████████████████▓░   94.84 %
+Ruby   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
