@@ -13,10 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 21 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
-Rust         1 hr 6 mins     █████████████░░░░░░░░░░░░   52.46 %
-Other        32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
+Python       2 mins          █████████████▒░░░░░░░░░░░   53.33 %
+Other        1 min           ████████▒░░░░░░░░░░░░░░░░   33.65 %
 ```
 
 <!--END_SECTION:waka-->
