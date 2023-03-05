@@ -13,14 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2023 - To: 03 March 2023
+From: 25 February 2023 - To: 04 March 2023
 
-Markdown     2 hrs 3 mins    ██████████████▒░░░░░░░░░░   57.66 %
-Python       1 hr 6 mins     ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-PHP          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-TypeScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Markdown     1 hr 36 mins    █████████████████▒░░░░░░░   69.87 %
+Python       29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+TypeScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
