@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2023 - To: 05 March 2023
+From: 27 February 2023 - To: 06 March 2023
 
 Markdown     1 hr 31 mins    █████████████████▒░░░░░░░   68.83 %
 Python       29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
