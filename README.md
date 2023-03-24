@@ -13,14 +13,14 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2023 - To: 22 March 2023
+From: 16 March 2023 - To: 23 March 2023
 
-Dart         2 hrs 21 mins   ██████████▓░░░░░░░░░░░░░░   42.54 %
-TypeScript   59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-JavaScript   57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Python       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-JSON         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Python       1 hr 34 mins    ███████▓░░░░░░░░░░░░░░░░░   31.00 %
+C            1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
+JavaScript   57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+YAML         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Bash         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
