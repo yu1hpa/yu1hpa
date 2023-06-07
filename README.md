@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
 C          1 hr 25 mins    ██████████████▒░░░░░░░░░░   57.92 %
 Python     55 mins         █████████▒░░░░░░░░░░░░░░░   37.54 %
