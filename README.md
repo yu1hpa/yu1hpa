@@ -13,11 +13,11 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
-Rust     1 hr 1 min      █████████████░░░░░░░░░░░░   52.17 %
-Python   38 mins         ████████░░░░░░░░░░░░░░░░░   32.58 %
-C        17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
+Rust     1 hr 1 min      ████████████████▓░░░░░░░░   66.31 %
+C        17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+Python   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
 ```
 
 <!--END_SECTION:waka-->
