@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
 Rust     1 hr 1 min      ████████████████▓░░░░░░░░   66.31 %
 C        17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.38 %
