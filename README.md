@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2023 - To: 10 July 2023
+From: 04 July 2023 - To: 11 July 2023
 
-TeX          1 hr 54 mins    ██████████████░░░░░░░░░░░   55.80 %
-Rust         35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-Docker       19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-JavaScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-YAML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+TeX          1 hr 54 mins    ██████████████▒░░░░░░░░░░   57.88 %
+Docker       35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+TypeScript   32 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+Text         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
