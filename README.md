@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2023 - To: 12 October 2023
+From: 06 October 2023 - To: 13 October 2023
 
 Java         1 hr 1 min      ███████████▓░░░░░░░░░░░░░   47.25 %
 HTML         27 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
