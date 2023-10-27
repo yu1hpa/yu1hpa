@@ -13,10 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 19 October 2023 - To: 26 October 2023
 
 JSON             4 hrs 28 mins   ███████████████▒░░░░░░░░░   61.07 %
-Java             1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
+Java             1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
 TypeScript       1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
 Python           23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
