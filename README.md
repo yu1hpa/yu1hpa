@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2023 - To: 28 October 2023
+From: 22 October 2023 - To: 29 October 2023
 
 Rust         1 hr 30 mins    ███████████░░░░░░░░░░░░░░   44.02 %
 Java         1 hr 17 mins    █████████▒░░░░░░░░░░░░░░░   37.93 %
