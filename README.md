@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2023 - To: 29 October 2023
+From: 23 October 2023 - To: 30 October 2023
 
-Rust         1 hr 30 mins    ███████████░░░░░░░░░░░░░░   44.02 %
-Java         1 hr 17 mins    █████████▒░░░░░░░░░░░░░░░   37.93 %
-Python       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-JSON         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Rust         1 hr 30 mins    ███████▒░░░░░░░░░░░░░░░░░   29.00 %
+Java         1 hr 17 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
+HTML         1 hr 3 mins     █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Python       47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+JSON         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
