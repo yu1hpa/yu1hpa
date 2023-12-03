@@ -13,12 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Python   58 mins         ████████████████████░░░░░   79.62 %
-CSV      14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       1 hr 15 mins    ████████████████▓░░░░░░░░   66.76 %
+Solidity     20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+CSV          14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
