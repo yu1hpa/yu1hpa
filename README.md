@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
 Python       1 hr 15 mins    ████████████████▓░░░░░░░░   66.76 %
 Solidity     20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
