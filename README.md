@@ -13,12 +13,11 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-TeX      5 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.24 %
-Python   3 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-Rust     1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TeX      5 hrs 52 mins   ████████████████▒░░░░░░░░   65.45 %
+Python   3 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.79 %
+Rust     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
