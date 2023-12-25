@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
-TeX          5 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   40.89 %
-Python       5 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   37.51 %
-JavaScript   1 hr 56 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-C++          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-C            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TeX          5 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.45 %
+Python       5 hrs 48 mins   █████████▓░░░░░░░░░░░░░░░   38.04 %
+JavaScript   2 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+C++          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+C            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
