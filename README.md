@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2024 - To: 26 January 2024
+From: 20 January 2024 - To: 27 January 2024
 
 TeX      3 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.01 %
 Python   2 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   40.43 %
