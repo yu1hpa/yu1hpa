@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 14 February 2024 - To: 21 February 2024
 
 TeX          2 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.91 %
 Ruby         1 hr 30 mins    ███████▓░░░░░░░░░░░░░░░░░   30.40 %
