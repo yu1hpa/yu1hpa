@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 22 February 2024
+From: 16 February 2024 - To: 23 February 2024
 
-TeX          1 hr 58 mins    ███████████▒░░░░░░░░░░░░░   45.72 %
-Ruby         1 hr 30 mins    ████████▓░░░░░░░░░░░░░░░░   34.79 %
-Text         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-JavaScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+TeX        1 hr 35 mins    ██████████▓░░░░░░░░░░░░░░   43.03 %
+Ruby       1 hr 30 mins    ██████████▒░░░░░░░░░░░░░░   40.72 %
+Text       21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+YAML       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
