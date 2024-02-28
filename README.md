@@ -13,10 +13,11 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2024 - To: 26 February 2024
+From: 20 February 2024 - To: 27 February 2024
 
-Ruby       5 mins          ██████████████░░░░░░░░░░░   56.26 %
-Markdown   4 mins          ███████████░░░░░░░░░░░░░░   43.74 %
+Markdown   4 mins          ███████████▒░░░░░░░░░░░░░   44.95 %
+Ruby       3 mins          ██████████▒░░░░░░░░░░░░░░   41.30 %
+Slim       1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
 ```
 
 <!--END_SECTION:waka-->
