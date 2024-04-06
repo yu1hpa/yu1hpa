@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2024 - To: 04 April 2024
+From: 29 March 2024 - To: 05 April 2024
 
-Python        15 hrs 12 mins  ███████████████▒░░░░░░░░░   60.79 %
-Bash          5 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-Markdown      1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-HTML          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-JavaScript    32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Python       15 hrs 7 mins   █████████████████████░░░░   83.49 %
+Markdown     1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
