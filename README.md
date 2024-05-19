@@ -13,10 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2024 - To: 17 May 2024
+From: 11 May 2024 - To: 18 May 2024
 
-Text     4 hrs 9 mins    ████████████████████▓░░░░   83.01 %
-Python   51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Text     4 hrs 9 mins    ████████████▓░░░░░░░░░░░░   50.04 %
+Rust     2 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+C        1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Python   51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Other    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
