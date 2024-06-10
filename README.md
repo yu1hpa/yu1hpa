@@ -13,11 +13,9 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-Rust   42 mins         ████████████████████▒░░░░   81.63 %
-TOML   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-Ruby   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Ruby   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
