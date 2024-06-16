@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2024 - To: 14 June 2024
+From: 08 June 2024 - To: 15 June 2024
 
 Rust    1 hr 36 mins    ██████████████████▓░░░░░░   74.77 %
 TeX     31 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
