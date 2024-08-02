@@ -13,11 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 31 July 2024
+From: 25 July 2024 - To: 01 August 2024
 
-Python       14 mins         ██████████████▓░░░░░░░░░░   59.08 %
-JavaScript   5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-HTML         5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Ruby   8 mins          ██████████████████████░░░   88.01 %
+Bash   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
 ```
 
 <!--END_SECTION:waka-->
