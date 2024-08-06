@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2024 - To: 04 August 2024
+From: 29 July 2024 - To: 05 August 2024
 
 JavaScript   4 hrs 6 mins    █████████████████████▒░░░   85.94 %
 Python       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
