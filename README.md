@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2024 - To: 09 August 2024
+From: 03 August 2024 - To: 10 August 2024
 
 Python       2 hrs 45 mins   ████████████████████████▒   97.41 %
 Solidity     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
