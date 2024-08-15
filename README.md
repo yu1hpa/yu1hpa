@@ -13,10 +13,9 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 13 August 2024
+From: 07 August 2024 - To: 14 August 2024
 
-Python       3 hrs 2 mins    ████████████████████████▓   99.08 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Python   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
