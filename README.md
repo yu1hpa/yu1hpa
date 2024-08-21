@@ -13,9 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-No activity tracked
+PHP             26 mins         █████████████▒░░░░░░░░░░░   52.96 %
+Apache Config   19 mins         █████████▓░░░░░░░░░░░░░░░   38.78 %
+Bash            2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Text            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
