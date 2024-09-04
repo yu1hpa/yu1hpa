@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2024 - To: 02 September 2024
+From: 27 August 2024 - To: 03 September 2024
 
-Rust         1 hr 19 mins    ██████████████▒░░░░░░░░░░   57.11 %
-Python       45 mins         ████████▒░░░░░░░░░░░░░░░░   32.85 %
-JavaScript   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Rust         1 hr 19 mins    ██████████████▒░░░░░░░░░░   56.99 %
+Python       45 mins         ████████▒░░░░░░░░░░░░░░░░   32.78 %
+JavaScript   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
