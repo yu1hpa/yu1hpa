@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
 Python   30 mins         █████████████░░░░░░░░░░░░   51.41 %
 Other    14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
