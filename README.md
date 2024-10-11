@@ -13,11 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Python   30 mins         █████████████░░░░░░░░░░░░   51.41 %
-Other    14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
-Docker   13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Python   21 mins         ██████████████▓░░░░░░░░░░   58.66 %
+Other    14 mins         ██████████▒░░░░░░░░░░░░░░   41.34 %
 ```
 
 <!--END_SECTION:waka-->
