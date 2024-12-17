@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2024 - To: 15 December 2024
+From: 09 December 2024 - To: 16 December 2024
 
-Python       3 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   35.46 %
-C#           2 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-OCaml        1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-PHP          1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-C++          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Python       3 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   34.09 %
+C#           2 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.22 %
+OCaml        1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+PHP          1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+C++          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 
 <!--END_SECTION:waka-->
