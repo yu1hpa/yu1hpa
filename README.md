@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
 TypeScript   2 hrs 14 mins   ████████████████████████░   95.49 %
 JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
