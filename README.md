@@ -13,9 +13,9 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-TypeScript   1 hr 37 mins    █████████████████████████   100.00 %
+TypeScript   40 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
