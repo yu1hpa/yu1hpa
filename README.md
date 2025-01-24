@@ -13,9 +13,12 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2025 - To: 22 January 2025
+From: 16 January 2025 - To: 23 January 2025
 
-No activity tracked
+TypeScript   2 hrs 28 mins   █████████████████▓░░░░░░░   70.17 %
+SQL          40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+Bash         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
