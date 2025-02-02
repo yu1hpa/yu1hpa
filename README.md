@@ -13,13 +13,9 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Python       2 hrs 50 mins   ██████████████████░░░░░░░   71.55 %
-TypeScript   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-SQL          22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-CSV          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Rust         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Rust   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
