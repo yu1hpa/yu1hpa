@@ -13,11 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2025 - To: 14 February 2025
+From: 08 February 2025 - To: 15 February 2025
 
-C        6 mins          ███████████████▓░░░░░░░░░   63.20 %
-Other    3 mins          ████████▒░░░░░░░░░░░░░░░░   33.56 %
-Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+C       6 mins          ████████████████▒░░░░░░░░   65.31 %
+Other   3 mins          ████████▓░░░░░░░░░░░░░░░░   34.69 %
 ```
 
 <!--END_SECTION:waka-->
