@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2025 - To: 01 March 2025
+From: 23 February 2025 - To: 02 March 2025
 
 TypeScript   52 mins         █████████████████████░░░░   83.73 %
 Text         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
