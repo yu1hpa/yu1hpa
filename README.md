@@ -13,12 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 14 March 2025
+From: 08 March 2025 - To: 15 March 2025
 
-Docker    40 mins         █████████████████████▓░░░   87.21 %
-Other     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Kconfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-C         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Docker     55 mins         █████████████░░░░░░░░░░░░   52.00 %
+C          29 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+Other      9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Bash       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
