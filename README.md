@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 04 April 2025
+From: 29 March 2025 - To: 05 April 2025
 
-JavaScript   4 hrs 27 mins   █████████████▓░░░░░░░░░░░   54.42 %
-Python       2 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-HTML         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JavaScript   4 hrs 15 mins   ████████████████▓░░░░░░░░   66.27 %
+Python       49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+HTML         42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
