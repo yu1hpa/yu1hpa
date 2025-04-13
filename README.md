@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
 Python       3 hrs 30 mins   ██████████████████▓░░░░░░   74.34 %
 HTML         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
