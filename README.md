@@ -13,10 +13,9 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2025 - To: 22 April 2025
+From: 16 April 2025 - To: 23 April 2025
 
-Python   58 mins         ████████████████████████▓   99.16 %
-TOML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Rust   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
