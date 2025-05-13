@@ -13,12 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-Python       55 mins         ████████████████████░░░░░   79.77 %
-MATLAB       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-SSH Config   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Python       55 mins         ███████████████████▓░░░░░   78.59 %
+MATLAB       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+SSH Config   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
