@@ -13,10 +13,11 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2025 - To: 15 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-Markdown   1 min           █████████████████████░░░░   84.00 %
-MATLAB     0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+TOML       14 mins         ███████████████░░░░░░░░░░   60.05 %
+Rust       8 mins          █████████░░░░░░░░░░░░░░░░   35.61 %
+Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
