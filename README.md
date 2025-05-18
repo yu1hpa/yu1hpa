@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
 TOML       14 mins         ███████████████░░░░░░░░░░   60.05 %
 Rust       8 mins          █████████░░░░░░░░░░░░░░░░   35.61 %
