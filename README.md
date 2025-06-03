@@ -13,9 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2025 - To: 01 June 2025
+From: 26 May 2025 - To: 02 June 2025
 
-No activity tracked
+TypeScript      1 hr 27 mins    ███████████▒░░░░░░░░░░░░░   45.98 %
+SystemVerilog   54 mins         ███████░░░░░░░░░░░░░░░░░░   28.49 %
+JSON            24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+YAML            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+V               5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
