@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2025 - To: 03 June 2025
+From: 28 May 2025 - To: 04 June 2025
 
 TypeScript      4 hrs 41 mins   ████████████████░░░░░░░░░   63.71 %
 SystemVerilog   54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
