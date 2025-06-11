@@ -13,13 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
-TypeScript   3 hrs 14 mins   ███████████████████░░░░░░   75.78 %
-JSON         29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Bash         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-TSConfig     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+V       4 mins          ███████████████████████▓░   94.58 %
+Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
