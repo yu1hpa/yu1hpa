@@ -13,10 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2025 - To: 15 June 2025
+From: 09 June 2025 - To: 16 June 2025
 
-TypeScript   6 mins          ███████████████░░░░░░░░░░   60.41 %
-V            4 mins          ██████████░░░░░░░░░░░░░░░   39.59 %
+V            25 mins         ███████████████████▓░░░░░   79.04 %
+TypeScript   6 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
 ```
 
 <!--END_SECTION:waka-->
