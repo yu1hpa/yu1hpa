@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2025 - To: 27 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
 V        26 mins         ████████████████████▓░░░░   82.46 %
 Python   5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
