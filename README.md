@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2025 - To: 05 August 2025
+From: 30 July 2025 - To: 06 August 2025
 
 V          4 hrs 48 mins   ██████████████████▓░░░░░░   74.61 %
 Rust       57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
