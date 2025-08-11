@@ -13,10 +13,11 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-V          4 hrs 19 mins   █████████████████████████   99.64 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+V          2 hrs 59 mins   █████████████████████░░░░   83.99 %
+Rust       33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
