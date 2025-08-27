@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Rust         9 hrs 50 mins   ██████████████████████▒░░   89.34 %
-Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-TOML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Rust         4 hrs 2 mins    ████████████████████░░░░░   80.28 %
+Markdown     38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
