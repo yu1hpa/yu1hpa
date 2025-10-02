@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2025 - To: 29 September 2025
+From: 23 September 2025 - To: 30 September 2025
 
 Rust         6 hrs 3 mins    ███████████████████████░░   92.13 %
 TypeScript   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
