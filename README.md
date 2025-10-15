@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
 Rust       16 mins         █████████████████████▒░░░   85.17 %
 Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
