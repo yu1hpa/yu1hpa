@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
 Python       48 mins         ██████████████████▓░░░░░░   74.86 %
 TOML         11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
