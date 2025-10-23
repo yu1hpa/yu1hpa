@@ -13,12 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2025 - To: 21 October 2025
+From: 15 October 2025 - To: 22 October 2025
 
-Python       48 mins         ██████████████████▓░░░░░░   74.86 %
-TOML         11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-Dotenv       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Rust         5 hrs 49 mins   ███████████████████▓░░░░░   78.04 %
+Python       48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+TOML         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
