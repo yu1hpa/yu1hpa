@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-PlantUML   2 hrs 9 mins    ██████████████████▓░░░░░░   75.22 %
-Rust       24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Markdown   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Bash       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+PlantUML   2 hrs 9 mins    ███████████████████░░░░░░   76.48 %
+Rust       24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Markdown   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+SQL        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
