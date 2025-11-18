@@ -13,11 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-PHP        13 mins         ██████████████████▓░░░░░░   74.75 %
-Python     2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Markdown   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+PHP      13 mins         █████████████████████░░░░   83.57 %
+Python   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
 ```
 
 <!--END_SECTION:waka-->
