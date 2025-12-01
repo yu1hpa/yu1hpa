@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2025 - To: 29 November 2025
+From: 23 November 2025 - To: 30 November 2025
 
-Markdown   16 mins         █████████████▒░░░░░░░░░░░   53.67 %
-TOML       5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
-Docker     4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-YAML       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-SQL        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Rust       1 hr 3 mins     ██████████████▒░░░░░░░░░░   56.70 %
+Markdown   20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+SQL        14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+TOML       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Docker     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
