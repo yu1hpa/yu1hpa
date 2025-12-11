@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
 PlantUML   15 mins         █████████████▓░░░░░░░░░░░   55.13 %
 Python     9 mins          ████████▒░░░░░░░░░░░░░░░░   33.64 %
