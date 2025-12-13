@@ -13,11 +13,12 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-PlantUML   15 mins         █████████████▓░░░░░░░░░░░   55.13 %
-Python     9 mins          ████████▒░░░░░░░░░░░░░░░░   33.64 %
-CSV        3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Rust       17 mins         █████████▓░░░░░░░░░░░░░░░   38.06 %
+PlantUML   15 mins         ████████▓░░░░░░░░░░░░░░░░   34.15 %
+Python     9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+CSV        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
 ```
 
 <!--END_SECTION:waka-->
