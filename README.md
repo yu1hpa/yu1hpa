@@ -13,11 +13,9 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2025 - To: 15 December 2025
+From: 09 December 2025 - To: 16 December 2025
 
-Rust     17 mins         ██████████████▒░░░░░░░░░░   57.80 %
-Python   9 mins          ████████░░░░░░░░░░░░░░░░░   31.64 %
-CSV      3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Rust   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
