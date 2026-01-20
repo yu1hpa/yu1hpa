@@ -13,11 +13,12 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 12 January 2026 - To: 19 January 2026
 
-Java         29 mins         ██████████████████████▓░░   90.89 %
-Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-SSH Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Java         29 mins         ██████████████████████▓░░   90.61 %
+Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+SSH Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
