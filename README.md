@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2026 - To: 22 January 2026
+From: 16 January 2026 - To: 23 January 2026
 
 Rust         1 hr 15 mins    █████████████████░░░░░░░░   68.40 %
 Java         29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
