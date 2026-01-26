@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Rust         1 hr 15 mins    █████████████████░░░░░░░░   68.40 %
-Java         29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
-TOML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Rust         1 hr 19 mins    ████████████████████████░   95.50 %
+TOML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
