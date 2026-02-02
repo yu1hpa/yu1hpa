@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2026 - To: 31 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-Rust         1 hr 55 mins    ████████████▓░░░░░░░░░░░░   50.79 %
-Markdown     1 hr 4 mins     ███████░░░░░░░░░░░░░░░░░░   28.17 %
-TeX          29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Lua          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Rust         2 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.42 %
+Markdown     1 hr 4 mins     ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+TeX          34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Lua          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+TOML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
