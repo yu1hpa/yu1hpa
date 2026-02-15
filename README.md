@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2026 - To: 13 February 2026
+From: 07 February 2026 - To: 14 February 2026
 
 TeX          47 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
 Markdown     38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
