@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2026 - To: 18 February 2026
+From: 12 February 2026 - To: 19 February 2026
 
-JSON         36 mins               ████████░░░░░░░░░░░░░░░░░   31.99 %
-Docker       34 mins               ███████▓░░░░░░░░░░░░░░░░░   30.52 %
-Makefile     13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Other        10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Rust         8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Other        19 mins               ██████████▒░░░░░░░░░░░░░░   40.94 %
+Makefile     13 mins               ███████▒░░░░░░░░░░░░░░░░░   29.54 %
+Go           5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Markdown     2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Docker       2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
