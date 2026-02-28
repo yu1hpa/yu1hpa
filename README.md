@@ -13,9 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-No activity tracked
+Go           57 mins               ███████████▒░░░░░░░░░░░░░   45.92 %
+Other        18 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+TypeScript   14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+PHP          12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Makefile     10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
 ```
 
 <!--END_SECTION:waka-->
