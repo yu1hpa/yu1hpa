@@ -13,13 +13,10 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Markdown   1 hr 1 min            █████████░░░░░░░░░░░░░░░░   35.83 %
-Rust       53 mins               ███████▓░░░░░░░░░░░░░░░░░   31.29 %
-Docker     19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Bash       17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-C          13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Rust   28 mins               ████████████████████████▓   98.06 %
+TOML   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
