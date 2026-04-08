@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2026 - To: 06 April 2026
+From: 31 March 2026 - To: 07 April 2026
 
-PHP              1 hr 48 mins          ████████████████████▓░░░░   82.40 %
-JavaScript       19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Other            2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Blade Template   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Bash             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+PHP              4 hrs 4 mins          █████████████████████▓░░░   86.94 %
+JavaScript       19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Other            15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON             1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Blade Template   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
