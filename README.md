@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2026 - To: 01 May 2026
+From: 25 April 2026 - To: 02 May 2026
 
 Other        2 hrs 34 mins         ███████░░░░░░░░░░░░░░░░░░   28.26 %
 Go           1 hr 28 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
