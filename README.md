@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2026 - To: 09 May 2026
+From: 03 May 2026 - To: 10 May 2026
 
 Go               44 mins               █████████░░░░░░░░░░░░░░░░   36.27 %
 PHP              36 mins               ███████▓░░░░░░░░░░░░░░░░░   30.04 %
