@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2026 - To: 31 May 2026
+From: 25 May 2026 - To: 01 June 2026
 
-Terraform    3 hrs 13 mins         ██████████▒░░░░░░░░░░░░░░   41.99 %
-PHP          2 hrs 4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
-Other        48 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Makefile     27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-JavaScript   25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+PHP               2 hrs 4 mins          ███████░░░░░░░░░░░░░░░░░░   27.91 %
+Terraform         1 hr 58 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+Other             48 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Bash              38 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Makefile          27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
