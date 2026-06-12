@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 10 June 2026
+From: 04 June 2026 - To: 11 June 2026
 
-YAML              39 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-Markdown          31 mins               █████░░░░░░░░░░░░░░░░░░░░   20.64 %
-Protocol Buffer   30 mins               █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-Other             16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-JSON              11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Protocol Buffer   1 hr 53 mins          ██████████████▒░░░░░░░░░░   56.87 %
+Rust              24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Other             24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Go                19 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+YAML              16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
 ```
 
 <!--END_SECTION:waka-->
