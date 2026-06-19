@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2026 - To: 17 June 2026
+From: 11 June 2026 - To: 18 June 2026
 
-Protocol Buffer   4 hrs 3 mins          ████████▒░░░░░░░░░░░░░░░░   33.77 %
-Go                1 hr 50 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-Rust              1 hr 45 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-SQL               1 hr 42 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Makefile          1 hr 8 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Rust              4 hrs 33 mins         ████████░░░░░░░░░░░░░░░░░   32.37 %
+Protocol Buffer   2 hrs 41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+Go                2 hrs 11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+SQL               1 hr 45 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+Makefile          1 hr 8 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
 ```
 
 <!--END_SECTION:waka-->
