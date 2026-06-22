@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2026 - To: 20 June 2026
+From: 14 June 2026 - To: 21 June 2026
 
 Go                5 hrs 8 mins          █████████▓░░░░░░░░░░░░░░░   39.33 %
 Rust              3 hrs 40 mins         ███████░░░░░░░░░░░░░░░░░░   28.13 %
