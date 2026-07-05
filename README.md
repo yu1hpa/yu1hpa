@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2026 - To: 03 July 2026
+From: 27 June 2026 - To: 04 July 2026
 
-PHP                  11 hrs 51 mins        ██████████████▒░░░░░░░░░░   56.97 %
-Go                   5 hrs 14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-Other                1 hr 6 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-SQL                  54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Protocol Buffer      24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+PHP                  12 hrs 11 mins        ██████████████░░░░░░░░░░░   56.51 %
+Go                   5 hrs 14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+Other                1 hr 32 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+SQL                  54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Protocol Buffer      24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
