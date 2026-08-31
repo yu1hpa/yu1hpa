@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2026 - To: 29 August 2026
+From: 23 August 2026 - To: 30 August 2026
 
-Go               5 hrs 26 mins         ██████████░░░░░░░░░░░░░░░   40.37 %
-Markdown         2 hrs 49 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-Other            1 hr 7 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-TypeScript       1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Rust             1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Go               5 hrs 26 mins         ██████████▓░░░░░░░░░░░░░░   42.55 %
+Markdown         2 hrs 21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+Rust             1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+TypeScript       1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Other            55 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
 ```
 
 <!--END_SECTION:waka-->
