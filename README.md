@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2026 - To: 05 September 2026
+From: 30 August 2026 - To: 06 September 2026
 
 Go                3 hrs 33 mins         ███████░░░░░░░░░░░░░░░░░░   27.60 %
 Other             2 hrs 51 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
