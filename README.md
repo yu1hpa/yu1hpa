@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2026 - To: 11 September 2026
+From: 05 September 2026 - To: 12 September 2026
 
 TypeScript        4 hrs 15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
 Other             4 hrs 12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
