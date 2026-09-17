@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2026 - To: 15 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
-TypeScript        4 hrs 15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-Markdown          2 hrs 18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Go                2 hrs 17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Rust              2 hrs 12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Other             1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+TypeScript        4 hrs                 ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+Markdown          2 hrs 31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Go                2 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Rust              1 hr 14 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Protocol Buffer   59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 ```
 
 <!--END_SECTION:waka-->
