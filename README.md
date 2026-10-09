@@ -13,13 +13,13 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Markdown                   6 hrs 40 mins         █████████░░░░░░░░░░░░░░░░   36.56 %
-PHP                        5 hrs 47 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
-Other                      3 hrs 22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-CSV                        38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Python                     34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown                   7 hrs 8 mins          █████████▓░░░░░░░░░░░░░░░   38.36 %
+PHP                        5 hrs 27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+Other                      2 hrs 55 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+CSV                        1 hr 24 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Python                     37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
