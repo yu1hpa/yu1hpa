@@ -13,7 +13,7 @@ Qiita : https://qiita.com/yu1hpa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2026 - To: 30 October 2026
+From: 24 October 2026 - To: 31 October 2026
 
 Other             4 hrs 9 mins          █████████▒░░░░░░░░░░░░░░░   37.23 %
 Markdown          2 hrs 44 mins         ██████░░░░░░░░░░░░░░░░░░░   24.52 %
